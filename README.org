@@ -1,3 +1,5 @@
 * cryo-data discussions
 
-A forum for discussions, questions, and comments about the [[https://github.com/cryo-data/][cryo-data]] project.
+A [[https://github.com/cryo-data/discuss/issues][forum]] for discussions, questions, and comments about the [[https://github.com/cryo-data/][cryo-data]] project.
+ 
+For now, open an issue at https://github.com/cryo-data/discuss/issues. Eventually we may set up [[https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository][issue templates]] or enable [[https://docs.github.com/en/discussions][Github Discussions]].
